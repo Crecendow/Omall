@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.txy.omall.dao.UserMapper">
+  <resultMap id="BaseResultMap" type="com.txy.omall.model.User">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="user_id" jdbcType="INTEGER" property="userId" />
+    <result column="user_name" jdbcType="VARCHAR" property="userName" />
+    <result column="user_pwd" jdbcType="VARCHAR" property="userPwd" />
+    <result column="user_age" jdbcType="INTEGER" property="userAge" />
+    <result column="user_gender" jdbcType="VARCHAR" property="userGender" />
+  </resultMap>
+</mapper>

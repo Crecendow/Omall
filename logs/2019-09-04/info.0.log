@@ -1,0 +1,78 @@
+2019-09-04 11:12:48 [restartedMain] INFO  com.txy.omall.OmallApplication -Starting OmallApplication on LAPTOP-1UVQ9QUD with PID 15868 (D:\zmall-workspace\omall\target\classes started by 11586 in D:\zmall-workspace\omall)
+2019-09-04 11:12:48 [restartedMain] INFO  com.txy.omall.OmallApplication -The following profiles are active: pro
+2019-09-04 11:12:48 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-09-04 11:12:48 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-09-04 11:12:51 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -Tomcat initialized with port(s): 8080 (http)
+2019-09-04 11:12:51 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol -Initializing ProtocolHandler ["http-nio-8080"]
+2019-09-04 11:12:51 [restartedMain] INFO  org.apache.catalina.core.StandardService -Starting service [Tomcat]
+2019-09-04 11:12:51 [restartedMain] INFO  org.apache.catalina.core.StandardEngine -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-09-04 11:12:51 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] -Initializing Spring embedded WebApplicationContext
+2019-09-04 11:12:51 [restartedMain] INFO  org.springframework.web.context.ContextLoader -Root WebApplicationContext: initialization completed in 3267 ms
+2019-09-04 11:12:52 [restartedMain] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure -Init DruidDataSource
+2019-09-04 11:12:52 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} inited
+2019-09-04 11:12:54 [restartedMain] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor -Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-04 11:12:54 [restartedMain] INFO  org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping -Adding welcome page template: index
+2019-09-04 11:12:54 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer -LiveReload server is running on port 35729
+2019-09-04 11:12:54 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol -Starting ProtocolHandler ["http-nio-8080"]
+2019-09-04 11:12:54 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -Tomcat started on port(s): 8080 (http) with context path ''
+2019-09-04 11:12:54 [restartedMain] INFO  com.txy.omall.OmallApplication -Started OmallApplication in 7.808 seconds (JVM running for 11.871)
+2019-09-04 11:12:58 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-09-04 11:12:58 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet -Initializing Servlet 'dispatcherServlet'
+2019-09-04 11:12:58 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet -Completed initialization in 8 ms
+2019-09-04 11:39:44 [Thread-21] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor -Shutting down ExecutorService 'applicationTaskExecutor'
+2019-09-04 11:39:44 [Thread-21] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} closed
+2019-09-04 11:39:45 [restartedMain] INFO  com.txy.omall.OmallApplication -Starting OmallApplication on LAPTOP-1UVQ9QUD with PID 15868 (D:\zmall-workspace\omall\target\classes started by 11586 in D:\zmall-workspace\omall)
+2019-09-04 11:39:45 [restartedMain] INFO  com.txy.omall.OmallApplication -The following profiles are active: pro
+2019-09-04 11:39:46 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -Tomcat initialized with port(s): 8080 (http)
+2019-09-04 11:39:46 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol -Initializing ProtocolHandler ["http-nio-8080"]
+2019-09-04 11:39:46 [restartedMain] INFO  org.apache.catalina.core.StandardService -Starting service [Tomcat]
+2019-09-04 11:39:46 [restartedMain] INFO  org.apache.catalina.core.StandardEngine -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-09-04 11:39:46 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] -Initializing Spring embedded WebApplicationContext
+2019-09-04 11:39:46 [restartedMain] INFO  org.springframework.web.context.ContextLoader -Root WebApplicationContext: initialization completed in 1290 ms
+2019-09-04 11:39:46 [restartedMain] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure -Init DruidDataSource
+2019-09-04 11:39:46 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-2} inited
+2019-09-04 11:39:46 [restartedMain] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor -Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-04 11:39:46 [restartedMain] INFO  org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping -Adding welcome page template: index
+2019-09-04 11:39:47 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer -LiveReload server is running on port 35729
+2019-09-04 11:39:47 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol -Starting ProtocolHandler ["http-nio-8080"]
+2019-09-04 11:39:47 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -Tomcat started on port(s): 8080 (http) with context path ''
+2019-09-04 11:39:47 [restartedMain] INFO  com.txy.omall.OmallApplication -Started OmallApplication in 1.909 seconds (JVM running for 1624.12)
+2019-09-04 11:39:47 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener -Condition evaluation unchanged
+2019-09-04 12:04:25 [Thread-29] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor -Shutting down ExecutorService 'applicationTaskExecutor'
+2019-09-04 12:04:25 [Thread-29] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-2} closed
+2019-09-04 12:04:26 [restartedMain] INFO  com.txy.omall.OmallApplication -Starting OmallApplication on LAPTOP-1UVQ9QUD with PID 15868 (D:\zmall-workspace\omall\target\classes started by 11586 in D:\zmall-workspace\omall)
+2019-09-04 12:04:26 [restartedMain] INFO  com.txy.omall.OmallApplication -The following profiles are active: pro
+2019-09-04 12:04:27 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -Tomcat initialized with port(s): 8080 (http)
+2019-09-04 12:04:27 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol -Initializing ProtocolHandler ["http-nio-8080"]
+2019-09-04 12:04:27 [restartedMain] INFO  org.apache.catalina.core.StandardService -Starting service [Tomcat]
+2019-09-04 12:04:27 [restartedMain] INFO  org.apache.catalina.core.StandardEngine -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-09-04 12:04:27 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] -Initializing Spring embedded WebApplicationContext
+2019-09-04 12:04:27 [restartedMain] INFO  org.springframework.web.context.ContextLoader -Root WebApplicationContext: initialization completed in 1038 ms
+2019-09-04 12:04:27 [restartedMain] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure -Init DruidDataSource
+2019-09-04 12:04:27 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-3} inited
+2019-09-04 12:04:28 [restartedMain] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor -Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-04 12:04:28 [restartedMain] INFO  org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping -Adding welcome page template: index
+2019-09-04 12:04:28 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer -LiveReload server is running on port 35729
+2019-09-04 12:04:28 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol -Starting ProtocolHandler ["http-nio-8080"]
+2019-09-04 12:04:28 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -Tomcat started on port(s): 8080 (http) with context path ''
+2019-09-04 12:04:28 [restartedMain] INFO  com.txy.omall.OmallApplication -Started OmallApplication in 1.892 seconds (JVM running for 3105.423)
+2019-09-04 12:04:28 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener -Condition evaluation unchanged
+2019-09-04 12:05:32 [Thread-35] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor -Shutting down ExecutorService 'applicationTaskExecutor'
+2019-09-04 12:05:32 [Thread-35] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-3} closed
+2019-09-04 12:05:34 [restartedMain] INFO  com.txy.omall.OmallApplication -Starting OmallApplication on LAPTOP-1UVQ9QUD with PID 15868 (D:\zmall-workspace\omall\target\classes started by 11586 in D:\zmall-workspace\omall)
+2019-09-04 12:05:34 [restartedMain] INFO  com.txy.omall.OmallApplication -The following profiles are active: pro
+2019-09-04 12:05:35 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -Tomcat initialized with port(s): 8080 (http)
+2019-09-04 12:05:35 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol -Initializing ProtocolHandler ["http-nio-8080"]
+2019-09-04 12:05:35 [restartedMain] INFO  org.apache.catalina.core.StandardService -Starting service [Tomcat]
+2019-09-04 12:05:35 [restartedMain] INFO  org.apache.catalina.core.StandardEngine -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-09-04 12:05:35 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] -Initializing Spring embedded WebApplicationContext
+2019-09-04 12:05:35 [restartedMain] INFO  org.springframework.web.context.ContextLoader -Root WebApplicationContext: initialization completed in 1408 ms
+2019-09-04 12:05:35 [restartedMain] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure -Init DruidDataSource
+2019-09-04 12:05:35 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-4} inited
+2019-09-04 12:05:36 [restartedMain] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor -Initializing ExecutorService 'applicationTaskExecutor'
+2019-09-04 12:05:36 [restartedMain] INFO  org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping -Adding welcome page template: index
+2019-09-04 12:05:36 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer -LiveReload server is running on port 35729
+2019-09-04 12:05:36 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol -Starting ProtocolHandler ["http-nio-8080"]
+2019-09-04 12:05:36 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -Tomcat started on port(s): 8080 (http) with context path ''
+2019-09-04 12:05:36 [restartedMain] INFO  com.txy.omall.OmallApplication -Started OmallApplication in 2.233 seconds (JVM running for 3173.419)
+2019-09-04 12:05:36 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener -Condition evaluation unchanged

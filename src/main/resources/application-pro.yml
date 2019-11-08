@@ -1,0 +1,42 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    druid:
+      driver-class-name: com.mysql.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/zmall?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=UTC
+      username: root
+      password: 123456
+      max-active: 30
+      min-idle: 5
+      validation-query: SELECT 1 FROM DUAL
+      max-wait: 10000
+      min-evictable-idle-time-millis: 30000
+      testWhileIdle: true
+      testOnBorrow: false
+      testOnReturn: false
+      poolPreparedStatements: true
+      maxPoolPreparedStatementPerConnectionSize: 20
+      filters: stat,wall,log4j2
+      connectionProperties: druid.stat.mergeSql\=true;druid.stat.slowSqlMillis\=5000
+      web-stat-filter:
+        enabled: true
+        url-pattern: "/*"
+        exclusions: "*.js,*.gif,*.jpg,*.bmp,*.png,*.css,*.ico,/druid/*"
+      stat-view-servlet:
+        url-pattern: "/druid/*"
+        allow: 0.0.0.0
+        reset-enable: false
+        login-username: admin
+        login-password: admin
+
+  thymeleaf:
+    cache: false # 开发时关闭缓存,不然没法看到实时页面
+    mode: LEGACYHTML5 # 用非严格的 HTML
+    servlet:
+      content-type: text/html
+
+mybatis:
+  type-aliases-package: com.txy.omall.model
+  mapper-locations: classpath:mapper/*.xml

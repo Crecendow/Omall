@@ -1,0 +1,12 @@
+2019-10-18 11:08:58 [main] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.portal]' package. Please check your configuration.
+2019-10-18 11:08:58 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.portal]' package. Please check your configuration.
+2019-10-18 11:09:12 [main] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][main] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-10-18 11:15:36 [main] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.portal]' package. Please check your configuration.
+2019-10-18 11:15:36 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.portal]' package. Please check your configuration.
+2019-10-18 11:15:48 [main] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][main] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-10-18 13:35:36 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-10-18 13:35:43 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-10-18 13:41:43 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-10-18 13:41:51 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-10-18 14:20:01 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-10-18 14:20:05 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.

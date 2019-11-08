@@ -1,0 +1,4 @@
+2019-10-31 10:30:17 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-10-31 10:30:21 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-10-31 10:39:02 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-10-31 10:39:05 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.

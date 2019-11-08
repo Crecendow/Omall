@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Zmall商城购物车页</title>
+
+    <!-- Bootstrap -->
+    <link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
+    <!-- 引入bootstrap-table样式 -->
+    <link href="../css/bootstrap-table.css" rel="stylesheet">
+    <!--    引入bootstrap的css样式-->
+    <link href="../css/editTable.css" rel="stylesheet">
+
+
+</head>
+<body>
+    <h1>Zmall网上商城</h1>
+    <a href="/" class="btn btn-success  active" role="button">主页</a>
+    <!--<a href="/" class="btn btn-success  active" role="button" onclick="refresh()">表格数据</a>-->
+    <br/>
+    <table class="table table-striped table-bordered table-hover" id="cartTable"></table>
+
+    <div class="modal fade" id="updateContent">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title">修改订单</h4>
+                </div>
+                <form id="form_data"  onsubmit="return updateCartItem()" method="post">
+                 <div class="modal-body">
+                     <label for="goodsId">商品编号</label>
+                     <input type="text" id="goodsId" value="" readonly="readonly"/><br/>
+                     <label for="goodsName">商品名称</label>
+                     <input type="text" id="goodsName" value="" readonly="readonly"/><br/>
+                     <label for="amount">购买数量</label>
+                     <input type="text" id="amount" value=""/><br/>
+                 </div>
+                 <div class="modal-footer">
+                        <button type="submit" class="btn btn-default">提交</button>
+                  </div>
+                 </form>
+            </div>
+        </div>
+    </div>
+
+    结算：<input type = "text" value="" id="total_price" readonly="readonly"> 元
+<!--    <a href = "/cart/list">显示数据</a>-->
+
+    <script src="../js/jquery.min.js"></script>
+
+    <script src="../bootstrap/js/bootstrap.js"></script>
+
+    <!-- 引入中文语言包 -->
+    <script src="../js/bootstrap-table.js"></script>
+    <!-- bootstrap-table.min.js -->
+    <script src="../js/bootstrap-table-editable.js"></script>
+    <script src="../js/bootstrap-table-zh-CN.js"></script>
+
+    <script src="../js/bootstrap-table-export.js"></script>
+    <script src="../js/cart.js"></script>
+</body>
+</html>

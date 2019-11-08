@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.txy.omall.dao.ShiroUserMapper">
+  <resultMap id="BaseResultMap" type="com.txy.omall.model.ShiroUser">
+    <!--
+      WARNING - @mbg.generated
+    -->
+    <id column="id" jdbcType="INTEGER" property="id" />
+    <result column="user_name" jdbcType="VARCHAR" property="userName" />
+    <result column="password" jdbcType="VARCHAR" property="password" />
+  </resultMap>
+
+
+  <select id="findRoles" parameterType="string" resultType="String">
+        select role_name from  shiro_user_role where user_name = #{userName}
+  </select>
+
+
+  <select id="findPermissions" parameterType="string" resultType="String">
+        select role_name from  shiro_user_role where user_name = #{userName}
+  </select>
+
+</mapper>

@@ -1,0 +1,210 @@
+2019-10-16 14:51:46 [restartedMain] INFO  com.txy.omall.OmallApplication -Starting OmallApplication on LAPTOP-1UVQ9QUD with PID 18268 (D:\zmall-workspace\omall\target\classes started by 11586 in D:\zmall-workspace\omall)
+2019-10-16 14:51:46 [restartedMain] INFO  com.txy.omall.OmallApplication -The following profiles are active: pro
+2019-10-16 14:51:46 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-10-16 14:51:46 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-10-16 14:51:48 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -Tomcat initialized with port(s): 8080 (http)
+2019-10-16 14:51:48 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol -Initializing ProtocolHandler ["http-nio-8080"]
+2019-10-16 14:51:48 [restartedMain] INFO  org.apache.catalina.core.StandardService -Starting service [Tomcat]
+2019-10-16 14:51:48 [restartedMain] INFO  org.apache.catalina.core.StandardEngine -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-10-16 14:51:49 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] -Initializing Spring embedded WebApplicationContext
+2019-10-16 14:51:49 [restartedMain] INFO  org.springframework.web.context.ContextLoader -Root WebApplicationContext: initialization completed in 2551 ms
+2019-10-16 14:51:49 [restartedMain] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure -Init DruidDataSource
+2019-10-16 14:51:49 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} inited
+2019-10-16 14:51:49 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} closed
+2019-10-16 14:51:49 [restartedMain] INFO  org.apache.catalina.core.StandardService -Stopping service [Tomcat]
+2019-10-16 14:51:49 [restartedMain] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-16 14:58:27 [restartedMain] INFO  com.txy.omall.OmallApplication -Starting OmallApplication on LAPTOP-1UVQ9QUD with PID 15124 (D:\zmall-workspace\omall\target\classes started by 11586 in D:\zmall-workspace\omall)
+2019-10-16 14:58:27 [restartedMain] INFO  com.txy.omall.OmallApplication -The following profiles are active: pro
+2019-10-16 14:58:28 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-10-16 14:58:28 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-10-16 14:58:29 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -Tomcat initialized with port(s): 8080 (http)
+2019-10-16 14:58:29 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol -Initializing ProtocolHandler ["http-nio-8080"]
+2019-10-16 14:58:29 [restartedMain] INFO  org.apache.catalina.core.StandardService -Starting service [Tomcat]
+2019-10-16 14:58:29 [restartedMain] INFO  org.apache.catalina.core.StandardEngine -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-10-16 14:58:29 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] -Initializing Spring embedded WebApplicationContext
+2019-10-16 14:58:29 [restartedMain] INFO  org.springframework.web.context.ContextLoader -Root WebApplicationContext: initialization completed in 1523 ms
+2019-10-16 14:58:29 [restartedMain] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure -Init DruidDataSource
+2019-10-16 14:58:29 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} inited
+2019-10-16 14:58:30 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} closed
+2019-10-16 14:58:30 [restartedMain] INFO  org.apache.catalina.core.StandardService -Stopping service [Tomcat]
+2019-10-16 14:58:30 [restartedMain] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-16 15:39:39 [restartedMain] INFO  com.txy.omall.OmallApplication -Starting OmallApplication on LAPTOP-1UVQ9QUD with PID 16836 (D:\zmall-workspace\omall\target\classes started by 11586 in D:\zmall-workspace\omall)
+2019-10-16 15:39:39 [restartedMain] INFO  com.txy.omall.OmallApplication -The following profiles are active: pro
+2019-10-16 15:39:39 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-10-16 15:39:39 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-10-16 15:39:40 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -Tomcat initialized with port(s): 8080 (http)
+2019-10-16 15:39:40 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol -Initializing ProtocolHandler ["http-nio-8080"]
+2019-10-16 15:39:40 [restartedMain] INFO  org.apache.catalina.core.StandardService -Starting service [Tomcat]
+2019-10-16 15:39:40 [restartedMain] INFO  org.apache.catalina.core.StandardEngine -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-10-16 15:39:41 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] -Initializing Spring embedded WebApplicationContext
+2019-10-16 15:39:41 [restartedMain] INFO  org.springframework.web.context.ContextLoader -Root WebApplicationContext: initialization completed in 1689 ms
+2019-10-16 15:39:41 [restartedMain] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure -Init DruidDataSource
+2019-10-16 15:39:41 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} inited
+2019-10-16 15:39:41 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} closed
+2019-10-16 15:39:41 [restartedMain] INFO  org.apache.catalina.core.StandardService -Stopping service [Tomcat]
+2019-10-16 15:39:41 [restartedMain] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-16 15:50:29 [restartedMain] INFO  com.txy.omall.OmallApplication -Starting OmallApplication on LAPTOP-1UVQ9QUD with PID 14080 (D:\zmall-workspace\omall\target\classes started by 11586 in D:\zmall-workspace\omall)
+2019-10-16 15:50:29 [restartedMain] INFO  com.txy.omall.OmallApplication -The following profiles are active: pro
+2019-10-16 15:50:29 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-10-16 15:50:29 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-10-16 15:50:30 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -Tomcat initialized with port(s): 8080 (http)
+2019-10-16 15:50:30 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol -Initializing ProtocolHandler ["http-nio-8080"]
+2019-10-16 15:50:30 [restartedMain] INFO  org.apache.catalina.core.StandardService -Starting service [Tomcat]
+2019-10-16 15:50:30 [restartedMain] INFO  org.apache.catalina.core.StandardEngine -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-10-16 15:50:31 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] -Initializing Spring embedded WebApplicationContext
+2019-10-16 15:50:31 [restartedMain] INFO  org.springframework.web.context.ContextLoader -Root WebApplicationContext: initialization completed in 1624 ms
+2019-10-16 15:50:31 [restartedMain] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure -Init DruidDataSource
+2019-10-16 15:50:31 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} inited
+2019-10-16 15:50:31 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} closed
+2019-10-16 15:50:31 [restartedMain] INFO  org.apache.catalina.core.StandardService -Stopping service [Tomcat]
+2019-10-16 15:50:31 [restartedMain] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-16 15:57:26 [restartedMain] INFO  com.txy.omall.OmallApplication -Starting OmallApplication on LAPTOP-1UVQ9QUD with PID 15124 (D:\zmall-workspace\omall\target\classes started by 11586 in D:\zmall-workspace\omall)
+2019-10-16 15:57:26 [restartedMain] INFO  com.txy.omall.OmallApplication -The following profiles are active: pro
+2019-10-16 15:57:26 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-10-16 15:57:26 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-10-16 15:57:28 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -Tomcat initialized with port(s): 8080 (http)
+2019-10-16 15:57:28 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol -Initializing ProtocolHandler ["http-nio-8080"]
+2019-10-16 15:57:28 [restartedMain] INFO  org.apache.catalina.core.StandardService -Starting service [Tomcat]
+2019-10-16 15:57:28 [restartedMain] INFO  org.apache.catalina.core.StandardEngine -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-10-16 15:57:28 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] -Initializing Spring embedded WebApplicationContext
+2019-10-16 15:57:28 [restartedMain] INFO  org.springframework.web.context.ContextLoader -Root WebApplicationContext: initialization completed in 1533 ms
+2019-10-16 15:57:28 [restartedMain] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure -Init DruidDataSource
+2019-10-16 15:57:28 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} inited
+2019-10-16 15:57:28 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} closed
+2019-10-16 15:57:28 [restartedMain] INFO  org.apache.catalina.core.StandardService -Stopping service [Tomcat]
+2019-10-16 15:57:29 [restartedMain] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-16 16:03:48 [restartedMain] INFO  com.txy.omall.OmallApplication -Starting OmallApplication on LAPTOP-1UVQ9QUD with PID 18196 (D:\zmall-workspace\omall\target\classes started by 11586 in D:\zmall-workspace\omall)
+2019-10-16 16:03:48 [restartedMain] INFO  com.txy.omall.OmallApplication -The following profiles are active: pro
+2019-10-16 16:03:48 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-10-16 16:03:48 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-10-16 16:03:49 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -Tomcat initialized with port(s): 8080 (http)
+2019-10-16 16:03:49 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol -Initializing ProtocolHandler ["http-nio-8080"]
+2019-10-16 16:03:49 [restartedMain] INFO  org.apache.catalina.core.StandardService -Starting service [Tomcat]
+2019-10-16 16:03:49 [restartedMain] INFO  org.apache.catalina.core.StandardEngine -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-10-16 16:03:49 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] -Initializing Spring embedded WebApplicationContext
+2019-10-16 16:03:49 [restartedMain] INFO  org.springframework.web.context.ContextLoader -Root WebApplicationContext: initialization completed in 1544 ms
+2019-10-16 16:03:49 [restartedMain] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure -Init DruidDataSource
+2019-10-16 16:03:50 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} inited
+2019-10-16 16:03:50 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} closed
+2019-10-16 16:03:50 [restartedMain] INFO  org.apache.catalina.core.StandardService -Stopping service [Tomcat]
+2019-10-16 16:03:50 [restartedMain] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-16 16:07:09 [restartedMain] INFO  com.txy.omall.OmallApplication -Starting OmallApplication on LAPTOP-1UVQ9QUD with PID 532 (D:\zmall-workspace\omall\target\classes started by 11586 in D:\zmall-workspace\omall)
+2019-10-16 16:07:09 [restartedMain] INFO  com.txy.omall.OmallApplication -The following profiles are active: pro
+2019-10-16 16:07:09 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-10-16 16:07:09 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-10-16 16:07:11 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -Tomcat initialized with port(s): 8080 (http)
+2019-10-16 16:07:11 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol -Initializing ProtocolHandler ["http-nio-8080"]
+2019-10-16 16:07:11 [restartedMain] INFO  org.apache.catalina.core.StandardService -Starting service [Tomcat]
+2019-10-16 16:07:11 [restartedMain] INFO  org.apache.catalina.core.StandardEngine -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-10-16 16:07:11 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] -Initializing Spring embedded WebApplicationContext
+2019-10-16 16:07:11 [restartedMain] INFO  org.springframework.web.context.ContextLoader -Root WebApplicationContext: initialization completed in 1704 ms
+2019-10-16 16:07:11 [restartedMain] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure -Init DruidDataSource
+2019-10-16 16:07:11 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} inited
+2019-10-16 16:07:12 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} closed
+2019-10-16 16:07:12 [restartedMain] INFO  org.apache.catalina.core.StandardService -Stopping service [Tomcat]
+2019-10-16 16:07:12 [restartedMain] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-16 16:08:45 [restartedMain] INFO  com.txy.omall.OmallApplication -Starting OmallApplication on LAPTOP-1UVQ9QUD with PID 7852 (D:\zmall-workspace\omall\target\classes started by 11586 in D:\zmall-workspace\omall)
+2019-10-16 16:08:45 [restartedMain] INFO  com.txy.omall.OmallApplication -The following profiles are active: pro
+2019-10-16 16:08:45 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-10-16 16:08:45 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-10-16 16:08:46 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -Tomcat initialized with port(s): 8080 (http)
+2019-10-16 16:08:46 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol -Initializing ProtocolHandler ["http-nio-8080"]
+2019-10-16 16:08:46 [restartedMain] INFO  org.apache.catalina.core.StandardService -Starting service [Tomcat]
+2019-10-16 16:08:46 [restartedMain] INFO  org.apache.catalina.core.StandardEngine -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-10-16 16:08:46 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] -Initializing Spring embedded WebApplicationContext
+2019-10-16 16:08:46 [restartedMain] INFO  org.springframework.web.context.ContextLoader -Root WebApplicationContext: initialization completed in 1506 ms
+2019-10-16 16:08:46 [restartedMain] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure -Init DruidDataSource
+2019-10-16 16:08:47 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} inited
+2019-10-16 16:08:47 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} closed
+2019-10-16 16:08:47 [restartedMain] INFO  org.apache.catalina.core.StandardService -Stopping service [Tomcat]
+2019-10-16 16:08:47 [restartedMain] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-16 16:13:02 [restartedMain] INFO  com.txy.omall.OmallApplication -Starting OmallApplication on LAPTOP-1UVQ9QUD with PID 17948 (D:\zmall-workspace\omall\target\classes started by 11586 in D:\zmall-workspace\omall)
+2019-10-16 16:13:02 [restartedMain] INFO  com.txy.omall.OmallApplication -The following profiles are active: pro
+2019-10-16 16:13:02 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-10-16 16:13:02 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-10-16 16:13:03 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -Tomcat initialized with port(s): 8080 (http)
+2019-10-16 16:13:03 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol -Initializing ProtocolHandler ["http-nio-8080"]
+2019-10-16 16:13:03 [restartedMain] INFO  org.apache.catalina.core.StandardService -Starting service [Tomcat]
+2019-10-16 16:13:03 [restartedMain] INFO  org.apache.catalina.core.StandardEngine -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-10-16 16:13:03 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] -Initializing Spring embedded WebApplicationContext
+2019-10-16 16:13:03 [restartedMain] INFO  org.springframework.web.context.ContextLoader -Root WebApplicationContext: initialization completed in 1495 ms
+2019-10-16 16:13:03 [restartedMain] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure -Init DruidDataSource
+2019-10-16 16:13:03 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} inited
+2019-10-16 16:13:04 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} closed
+2019-10-16 16:13:04 [restartedMain] INFO  org.apache.catalina.core.StandardService -Stopping service [Tomcat]
+2019-10-16 16:13:04 [restartedMain] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-16 16:14:17 [restartedMain] INFO  com.txy.omall.OmallApplication -Starting OmallApplication on LAPTOP-1UVQ9QUD with PID 15372 (D:\zmall-workspace\omall\target\classes started by 11586 in D:\zmall-workspace\omall)
+2019-10-16 16:14:17 [restartedMain] INFO  com.txy.omall.OmallApplication -The following profiles are active: pro
+2019-10-16 16:14:17 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-10-16 16:14:17 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-10-16 16:14:18 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -Tomcat initialized with port(s): 8080 (http)
+2019-10-16 16:14:18 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol -Initializing ProtocolHandler ["http-nio-8080"]
+2019-10-16 16:14:18 [restartedMain] INFO  org.apache.catalina.core.StandardService -Starting service [Tomcat]
+2019-10-16 16:14:18 [restartedMain] INFO  org.apache.catalina.core.StandardEngine -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-10-16 16:14:19 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] -Initializing Spring embedded WebApplicationContext
+2019-10-16 16:14:19 [restartedMain] INFO  org.springframework.web.context.ContextLoader -Root WebApplicationContext: initialization completed in 1525 ms
+2019-10-16 16:14:19 [restartedMain] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure -Init DruidDataSource
+2019-10-16 16:14:19 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} inited
+2019-10-16 16:14:19 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} closed
+2019-10-16 16:14:19 [restartedMain] INFO  org.apache.catalina.core.StandardService -Stopping service [Tomcat]
+2019-10-16 16:14:19 [restartedMain] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-16 16:14:44 [restartedMain] INFO  com.txy.omall.OmallApplication -Starting OmallApplication on LAPTOP-1UVQ9QUD with PID 4544 (D:\zmall-workspace\omall\target\classes started by 11586 in D:\zmall-workspace\omall)
+2019-10-16 16:14:44 [restartedMain] INFO  com.txy.omall.OmallApplication -The following profiles are active: pro
+2019-10-16 16:14:44 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-10-16 16:14:44 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-10-16 16:14:45 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -Tomcat initialized with port(s): 8080 (http)
+2019-10-16 16:14:45 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol -Initializing ProtocolHandler ["http-nio-8080"]
+2019-10-16 16:14:45 [restartedMain] INFO  org.apache.catalina.core.StandardService -Starting service [Tomcat]
+2019-10-16 16:14:45 [restartedMain] INFO  org.apache.catalina.core.StandardEngine -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-10-16 16:14:45 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] -Initializing Spring embedded WebApplicationContext
+2019-10-16 16:14:45 [restartedMain] INFO  org.springframework.web.context.ContextLoader -Root WebApplicationContext: initialization completed in 1615 ms
+2019-10-16 16:14:45 [restartedMain] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure -Init DruidDataSource
+2019-10-16 16:14:46 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} inited
+2019-10-16 16:14:46 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} closed
+2019-10-16 16:14:46 [restartedMain] INFO  org.apache.catalina.core.StandardService -Stopping service [Tomcat]
+2019-10-16 16:14:46 [restartedMain] INFO  org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-10-16 16:15:23 [restartedMain] INFO  com.txy.omall.OmallApplication -Starting OmallApplication on LAPTOP-1UVQ9QUD with PID 16540 (D:\zmall-workspace\omall\target\classes started by 11586 in D:\zmall-workspace\omall)
+2019-10-16 16:15:23 [restartedMain] INFO  com.txy.omall.OmallApplication -The following profiles are active: pro
+2019-10-16 16:15:23 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-10-16 16:15:23 [restartedMain] INFO  org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-10-16 16:15:24 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -Tomcat initialized with port(s): 8080 (http)
+2019-10-16 16:15:24 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol -Initializing ProtocolHandler ["http-nio-8080"]
+2019-10-16 16:15:24 [restartedMain] INFO  org.apache.catalina.core.StandardService -Starting service [Tomcat]
+2019-10-16 16:15:24 [restartedMain] INFO  org.apache.catalina.core.StandardEngine -Starting Servlet engine: [Apache Tomcat/9.0.22]
+2019-10-16 16:15:24 [restartedMain] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] -Initializing Spring embedded WebApplicationContext
+2019-10-16 16:15:24 [restartedMain] INFO  org.springframework.web.context.ContextLoader -Root WebApplicationContext: initialization completed in 1543 ms
+2019-10-16 16:15:25 [restartedMain] INFO  com.alibaba.druid.spring.boot.autoconfigure.DruidDataSourceAutoConfigure -Init DruidDataSource
+2019-10-16 16:15:25 [restartedMain] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} inited
+2019-10-16 16:15:26 [restartedMain] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor -Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-16 16:15:26 [restartedMain] INFO  org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping -Adding welcome page template: index
+2019-10-16 16:15:26 [restartedMain] INFO  org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer -LiveReload server is running on port 35729
+2019-10-16 16:15:26 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol -Starting ProtocolHandler ["http-nio-8080"]
+2019-10-16 16:15:26 [restartedMain] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer -Tomcat started on port(s): 8080 (http) with context path ''
+2019-10-16 16:15:26 [restartedMain] INFO  com.txy.omall.OmallApplication -Started OmallApplication in 4.467 seconds (JVM running for 5.858)
+2019-10-16 16:15:37 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-10-16 16:15:37 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet -Initializing Servlet 'dispatcherServlet'
+2019-10-16 16:15:37 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet -Completed initialization in 17 ms
+2019-10-16 16:35:05 [Thread-18] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor -Shutting down ExecutorService 'applicationTaskExecutor'
+2019-10-16 16:35:05 [Thread-18] INFO  com.alibaba.druid.pool.DruidDataSource -{dataSource-1} closed

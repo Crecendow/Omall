@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Zmall商城登录页</title>
+
+    <!-- Bootstrap -->
+    <link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="../css/login.css" rel="stylesheet">
+
+</head>
+<body>
+<h1>Zmall网上商城</h1>
+
+<a href="/" class="btn btn-success  active" role="button">主页</a>
+<button type ="button" class ="btn btn-danger" onclick="gethome()">跳转</button>
+
+<div class = "loginBox">
+<form method="post" autocomplete="off">
+    <div class="form-group">
+        <label for="userName">用户名</label>
+        <input type="text" class="form-control" id="userName" placeholder="用户名">
+    </div>
+    <div class="form-group">
+        <label for="password">密码</label>
+        <input type="password" class="form-control" id="password" placeholder="密码">
+    </div>
+    <div class="checkbox">
+        <label>
+            <input type="checkbox"> 记住密码
+        </label>
+    </div>
+
+    <div class = "submitarea">
+    <button type="submit" class="btn btn-primary" onclick="loginCheck()">登录</button>
+    </div>
+</form>
+</div>
+
+<script src="../js/jquery.min.js"></script>
+<script src="../bootstrap/js/bootstrap.js"></script>
+<script src="../js/login.js"></script>
+</body>
+</html>

@@ -1,0 +1,75 @@
+2019-08-29 08:41:26 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 08:41:29 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 08:44:05 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 08:44:06 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 08:46:02 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 08:46:03 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 08:46:37 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 08:46:38 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 08:47:22 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 08:47:24 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 08:47:47 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 08:47:48 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 08:48:10 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 08:48:11 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 08:48:43 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 08:48:44 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 09:29:00 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 09:29:01 [restartedMain] WARN  org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'loginController': Unsatisfied dependency expressed through field 'UserService'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.txy.omall.service.IUser' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2019-08-29 09:30:36 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 09:30:37 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 09:41:17 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 09:41:18 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 09:43:18 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 09:43:19 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 09:50:22 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 09:50:26 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 09:51:58 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 09:53:33 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 09:56:40 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 09:57:50 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 09:58:17 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 09:58:20 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 10:00:47 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 10:00:50 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 10:56:30 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 10:56:33 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 11:02:21 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 11:02:25 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 11:21:03 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 11:21:07 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 11:23:02 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 11:23:04 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 11:35:01 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 11:35:03 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 11:35:46 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 11:35:49 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 11:39:39 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 11:39:42 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 11:40:35 [http-nio-8080-exec-4] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver -Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2019-08-29 11:40:45 [http-nio-8080-exec-2] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver -Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2019-08-29 11:40:54 [http-nio-8080-exec-5] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver -Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2019-08-29 11:41:04 [http-nio-8080-exec-8] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver -Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2019-08-29 11:41:08 [http-nio-8080-exec-3] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver -Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2019-08-29 12:02:41 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 12:02:45 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 14:10:52 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 14:10:53 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 14:15:00 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 14:15:01 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 14:24:11 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 14:24:12 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 14:29:41 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 14:29:44 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 14:33:16 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 14:33:18 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 14:34:54 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 14:34:56 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 14:44:20 [restartedMain] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner -No MyBatis mapper was found in '[com.txy.omall]' package. Please check your configuration.
+2019-08-29 14:44:21 [restartedMain] WARN  org.thymeleaf.templatemode.TemplateMode -[THYMELEAF][restartedMain] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-08-29 14:45:49 [http-nio-8080-exec-4] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver -Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2019-08-29 14:45:58 [http-nio-8080-exec-7] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver -Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2019-08-29 14:46:19 [http-nio-8080-exec-9] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver -Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2019-08-29 14:49:27 [http-nio-8080-exec-10] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver -Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2019-08-29 14:49:32 [http-nio-8080-exec-6] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver -Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2019-08-29 16:41:41 [http-nio-8080-exec-9] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver -Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
